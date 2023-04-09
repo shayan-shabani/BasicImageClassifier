@@ -1,1 +1,1 @@
-#Simple framework for transfer learning
+Simple framework for transfer learning
